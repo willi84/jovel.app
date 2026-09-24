@@ -1,0 +1,317 @@
+{
+  "event": {
+    "name": "MÜNSTERHACK 2026",
+    "dates": [
+      "2026-09-25",
+      "2026-09-26"
+    ],
+    "hashtag": "#MSHACK26",
+    "wifi": {
+      "ssid": "MUENSTERHACK",
+      "password": "#MSHack26!"
+    }
+  },
+  "links": [
+    {
+      "title": "Riot Space",
+      "url": "https://matrix.to/#/#mshack26:matrix.muensterhack.de",
+      "category": "communication",
+      "source": "hackdash"
+    },
+    {
+      "title": "Team & Raumübersicht",
+      "url": "https://www.muensterhack.de/teams/10",
+      "category": "event",
+      "source": "hackdash"
+    },
+    {
+      "title": "Riot",
+      "url": "https://riot.muensterhack.de/",
+      "category": "communication",
+      "source": "hackdash"
+    },
+    {
+      "title": "Element",
+      "url": "https://element.muensterhack.de/",
+      "category": "communication",
+      "source": "hackdash"
+    },
+    {
+      "title": "AI-Gateway",
+      "url": "https://doc.muensterhack.de/s/PRr9HvRzEk",
+      "category": "tools",
+      "source": "hackdash"
+    },
+    {
+      "title": "Videokonferenz / Jitsi",
+      "url": "https://jitsi.muensterhack.de/",
+      "category": "communication",
+      "source": "hackdash"
+    },
+    {
+      "title": "Ideen 2026",
+      "url": "https://muensterhack.de/ideen/10",
+      "category": "event",
+      "source": "hackdash"
+    },
+    {
+      "title": "Supporter",
+      "url": "https://muensterhack.de/#supporter",
+      "category": "event",
+      "source": "hackdash"
+    },
+    {
+      "title": "Teaservice 1/2",
+      "url": "https://www.youtube.com/watch?v=Jl45tyuTMOc",
+      "category": "video",
+      "source": "hackdash"
+    },
+    {
+      "title": "After Movie 2025",
+      "url": "https://www.youtube.com/watch?v=AYxHcNmpDYs&pp=0gcJCSAMAYcqIYzv",
+      "category": "video",
+      "source": "hackdash"
+    },
+    {
+      "title": "Mentoren",
+      "url": "https://muensterhack.de/#mentoren",
+      "category": "event",
+      "source": "hackdash"
+    },
+    {
+      "title": "#MSHACK26 auf X",
+      "url": "https://x.com/hashtag/mshack26",
+      "category": "social",
+      "source": "hackdash"
+    },
+    {
+      "title": "MÜNSTERHACK",
+      "url": "https://muensterhack.de/",
+      "category": "event",
+      "source": "website"
+    },
+    {
+      "title": "Klimastadtvertrag",
+      "url": "https://www.stadt-muenster.de/klimastadt/klimastadtvertrag",
+      "category": "city",
+      "source": "website"
+    },
+    {
+      "title": "Gutes Morgen Münster – MÜNSTERHACK",
+      "url": "https://www.gutes-morgen.ms/de/muensterhack/",
+      "category": "city",
+      "source": "website"
+    },
+    {
+      "title": "Digital Hub münsterLAND",
+      "url": "https://www.digitalhub.ms/",
+      "category": "partner",
+      "source": "website"
+    },
+    {
+      "title": "items GmbH",
+      "url": "https://itemsnet.de/",
+      "category": "partner",
+      "source": "website"
+    },
+    {
+      "title": "con terra",
+      "url": "https://www.conterra.de/",
+      "category": "mentor-organization",
+      "source": "website"
+    },
+    {
+      "title": "GWS",
+      "url": "https://gws.ms/",
+      "category": "mentor-organization",
+      "source": "website"
+    },
+    {
+      "title": "viadee",
+      "url": "https://www.viadee.de/",
+      "category": "mentor-organization",
+      "source": "website"
+    },
+    {
+      "title": "Bechtle IT-Systemhaus Münster",
+      "url": "https://www.bechtle.com/ueber-bechtle/unternehmen/standorte/bechtle-it-systemhaus-muenster",
+      "category": "mentor-organization",
+      "source": "website"
+    },
+    {
+      "title": "senseBox",
+      "url": "https://sensebox.de/",
+      "category": "mentor-organization",
+      "source": "website"
+    },
+    {
+      "title": "Smart City Münster",
+      "url": "https://www.stadt-muenster.de/muenster-marketing/stadtdialog/smart-city",
+      "category": "mentor-organization",
+      "source": "website"
+    },
+    {
+      "title": "LVM",
+      "url": "https://www.lvm.de/",
+      "category": "mentor-organization",
+      "source": "website"
+    },
+    {
+      "title": "ERCIS",
+      "url": "https://www.ercis.org/",
+      "category": "mentor-organization",
+      "source": "website"
+    },
+    {
+      "title": "Zweitag",
+      "url": "https://www.zweitag.de/",
+      "category": "mentor-organization",
+      "source": "website"
+    },
+    {
+      "title": "Open Data Portal Stadt Münster",
+      "url": "https://opendata.stadt-muenster.de/",
+      "category": "open-data",
+      "source": "website"
+    },
+    {
+      "title": "Open Data bei Open.NRW",
+      "url": "https://open.nrw/open-data",
+      "category": "open-data",
+      "source": "website"
+    },
+    {
+      "title": "OpenData ÖPNV",
+      "url": "https://www.opendata-oepnv.de/",
+      "category": "open-data",
+      "source": "website"
+    },
+    {
+      "title": "Event und Startup-Daten Digital Hub münsterLAND",
+      "url": "https://www.digitalhub.ms/api",
+      "category": "open-data",
+      "source": "website"
+    },
+    {
+      "title": "Stadtwerke Bus-Radar",
+      "url": "https://api.busradar.conterra.de/",
+      "category": "open-data",
+      "source": "website"
+    },
+    {
+      "title": "Geobasisdaten Münster",
+      "url": "https://geo.stadt-muenster.de/webgis/application/Geobasisdaten",
+      "category": "open-data",
+      "source": "website"
+    },
+    {
+      "title": "Geoportal NRW",
+      "url": "https://www.geoportal.nrw/",
+      "category": "open-data",
+      "source": "website"
+    },
+    {
+      "title": "GovData – Datenportal für Deutschland",
+      "url": "https://www.govdata.de/",
+      "category": "open-data",
+      "source": "website"
+    },
+    {
+      "title": "Datenportal Münsterland",
+      "url": "https://www.muensterland.com/muensterland-e.v/unsere-projekte/muensterland-digital/datenportal-muensterland/",
+      "category": "open-data",
+      "source": "website"
+    },
+    {
+      "title": "Mobilithek",
+      "url": "https://mobilithek.info/",
+      "category": "open-data",
+      "source": "website"
+    },
+    {
+      "title": "Statistikportal des Bundes und der Länder – Open Data",
+      "url": "https://www.statistikportal.de/de/open-data",
+      "category": "open-data",
+      "source": "website"
+    },
+    {
+      "title": "WN Artikel und Metadaten – Public API",
+      "url": "https://gitlab.com/aschendorff_webdev/wn/tree/master/Public%20API",
+      "category": "open-data",
+      "source": "website"
+    },
+    {
+      "title": "Tech-Kalinen Münsterland",
+      "url": "https://www.meetup.com/tech-kalinen-muensterland/",
+      "category": "community",
+      "source": "website"
+    },
+    {
+      "title": "Code for Münster – Nachhaltige Zukunft für Civic Hackathons",
+      "url": "https://codeformuenster.org/blog/2023/09/10/muensterhack-civictech/",
+      "category": "background",
+      "source": "website"
+    },
+    {
+      "title": "FabLab Münster",
+      "url": "https://www.digitalhub.ms/fablab",
+      "category": "tools",
+      "source": "website"
+    },
+    {
+      "title": "data:unplugged",
+      "url": "https://www.data-unplugged.de/",
+      "category": "tools",
+      "source": "website"
+    },
+    {
+      "title": "Projektübersicht",
+      "url": "https://muensterhack.de/projekte",
+      "category": "event",
+      "source": "website"
+    },
+    {
+      "title": "Abschlussevent – Anmeldung",
+      "url": "https://www.digitalhub.ms/events/mshack-abschlussevent",
+      "category": "event",
+      "source": "website"
+    },
+    {
+      "title": "Stadtwerke Münster",
+      "url": "https://www.stadtwerke-muenster.de/",
+      "category": "partner",
+      "source": "website"
+    },
+    {
+      "title": "helpwave",
+      "url": "https://www.helpwave.de/",
+      "category": "project",
+      "source": "website"
+    },
+    {
+      "title": "Thomas Mohn Fotografie",
+      "url": "https://thomasmohn.de/",
+      "category": "photos",
+      "source": "website"
+    },
+    {
+      "title": "Franca Porsch Fotografie",
+      "url": "https://francamachtfotos.myportfolio.com/",
+      "category": "photos",
+      "source": "website"
+    },
+    {
+      "title": "Impressum",
+      "url": "https://www.digitalhub.ms/impressum",
+      "category": "legal",
+      "source": "website"
+    },
+    {
+      "title": "Datenschutz",
+      "url": "https://www.digitalhub.ms/datenschutz",
+      "category": "legal",
+      "source": "website"
+    }
+  ],
+  "count": 50
+}

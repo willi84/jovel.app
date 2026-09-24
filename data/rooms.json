@@ -1,0 +1,217 @@
+{
+  "source": "FLOOR_1_HUB.svg",
+  "note": "Teamnamen sind fiktive Beispiele.",
+  "rooms": [
+    {
+      "id": "ROOM_0_ENTRANCE",
+      "number": 0,
+      "name": "Eingang",
+      "team": null
+    },
+    {
+      "id": "ROOM_1_ACCELERATOR",
+      "number": 1,
+      "name": "Accelerator",
+      "team": "LeezenLöwen"
+    },
+    {
+      "id": "ROOM_2",
+      "number": 2,
+      "name": "Raum 2",
+      "team": "Aasee Avengers"
+    },
+    {
+      "id": "ROOM_3_HUB_OFFICE",
+      "number": 3,
+      "name": "Hub Office",
+      "team": null
+    },
+    {
+      "id": "ROOM_4_BATHROOM_MEN",
+      "number": 4,
+      "name": "Bad",
+      "team": null
+    },
+    {
+      "id": "ROOM_6_KITCHEN",
+      "number": 6,
+      "name": "Küche",
+      "team": null
+    },
+    {
+      "id": "ROOM_7_HUB_BASE",
+      "number": 7,
+      "name": "Hub Base",
+      "team": "Kiepenkerl Kollektiv"
+    },
+    {
+      "id": "ROOM_8_HUBBOX",
+      "number": 8,
+      "name": "Hub Box",
+      "team": "PixelPumper"
+    },
+    {
+      "id": "ROOM_9",
+      "number": 9,
+      "name": "Raum 9",
+      "team": "PromenadenPioniere"
+    },
+    {
+      "id": "ROOM_10",
+      "number": 10,
+      "name": "Raum 10",
+      "team": "Jovel Jockeys"
+    },
+    {
+      "id": "ROOM_11",
+      "number": 11,
+      "name": "Raum 11",
+      "team": "Tatort Tüftler"
+    },
+    {
+      "id": "ROOM_12",
+      "number": 12,
+      "name": "Raum 12",
+      "team": "Prinzipalmarkt Pirates"
+    },
+    {
+      "id": "ROOM_13_COMMUNITY",
+      "number": 13,
+      "name": "Community",
+      "team": "KanalKöppe"
+    },
+    {
+      "id": "ROOM_14_HUB_FORUM",
+      "number": 14,
+      "name": "Hub Forum",
+      "team": "Domplatz Debugger"
+    },
+    {
+      "id": "ROOM_15_INACTIVE",
+      "number": 15,
+      "name": "Raum 15",
+      "team": null
+    },
+    {
+      "id": "ROOM_16_INACTIVE",
+      "number": 16,
+      "name": "Raum 16",
+      "team": null
+    },
+    {
+      "id": "ROOM_17_COMMUNITY",
+      "number": 17,
+      "name": "Community 17",
+      "team": null
+    },
+    {
+      "id": "ROOM_18_BALCONY",
+      "number": 18,
+      "name": "Balkon",
+      "team": null
+    }
+  ],
+  "facilities": [
+    {
+      "id": "toilet",
+      "label": "Toilette",
+      "emoji": "🚻",
+      "svgIds": [
+        "ICON-TOILET-FEMALE",
+        "ICON-TOILET-MALE"
+      ],
+      "roomIds": [
+        "ROOM_4_BATHROOM_MEN"
+      ],
+      "keywords": [
+        "toilette",
+        "wc",
+        "bad"
+      ]
+    },
+    {
+      "id": "kitchen",
+      "label": "Küche",
+      "emoji": "🍴",
+      "svgIds": [
+        "ICON_KITCHEN"
+      ],
+      "roomIds": [
+        "ROOM_6_KITCHEN"
+      ],
+      "keywords": [
+        "küche",
+        "kitchen",
+        "essen"
+      ]
+    },
+    {
+      "id": "smoking",
+      "label": "Raucherbereich",
+      "emoji": "🚬",
+      "svgIds": [
+        "ICON-SMOKE"
+      ],
+      "roomIds": [],
+      "keywords": [
+        "raucher",
+        "rauchen",
+        "smoke"
+      ]
+    },
+    {
+      "id": "drinks",
+      "label": "Getränke",
+      "emoji": "🥤",
+      "svgIds": [
+        "ICON-DRINK",
+        "ICON_DRINK"
+      ],
+      "roomIds": [],
+      "keywords": [
+        "getränke",
+        "drink"
+      ]
+    },
+    {
+      "id": "cloakroom",
+      "label": "Garderobe",
+      "emoji": "🧥",
+      "svgIds": [
+        "ICON-CLOAKROOM"
+      ],
+      "roomIds": [],
+      "keywords": [
+        "garderobe",
+        "cloakroom"
+      ]
+    },
+    {
+      "id": "lockers",
+      "label": "Schließfächer",
+      "emoji": "🔐",
+      "svgIds": [
+        "ICON-LOCKER"
+      ],
+      "roomIds": [],
+      "keywords": [
+        "schließfach",
+        "locker"
+      ]
+    },
+    {
+      "id": "elevator",
+      "label": "Aufzug",
+      "emoji": "🛗",
+      "svgIds": [
+        "ICON_ELEVATOR"
+      ],
+      "roomIds": [],
+      "keywords": [
+        "aufzug",
+        "fahrstuhl",
+        "elevator"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "jovel.app – MÜNSTERHACK Begleiter",
+  "short_name": "jovel.app",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#fffdf2",
+  "theme_color": "#e51b23",
+  "icons": [
+    {
+      "src": "assets/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

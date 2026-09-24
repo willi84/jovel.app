@@ -1,0 +1,146 @@
+{
+  "year": 2026,
+  "source": "https://muensterhack.de/ideen/10",
+  "ideas": [
+    {
+      "firstName": "Adarsh",
+      "alias": "pushpulldeploy",
+      "idea": "LeezenPass – ein digitaler Fahrradpass für Münster. 2025 war in MS jede 7. Straftat ein Fahrraddiebstahl (4.561 Fälle, nur 12,6 % aufgeklärt). Klauen lohnt sich, weil geklaute Leezen leicht weiterverkauft werden – Polizei-App und Online-Registrierung gibt es nicht mehr. Idee: Rad in 2 Min. registrieren (KI liest Foto & Rahmennummer), vor dem Gebrauchtkauf per Rahmennummer prüfen, verifizierter Eigentümerwechsel, Diebstahlmeldung + Community-Sichtungen.\nStack: .NET, React, PostGIS, LLM."
+    },
+    {
+      "firstName": "Ardelia",
+      "alias": "",
+      "idea": "Das Projekt, das ich durchführen möchte, könnte damit zu tun haben, Studierenden mithilfe von Analysen bei der Wohnungssuche zu helfen. ich freue mich schon richtig darauf, neue Leute kennenzulernen und neue Projekte in Angriff zu nehmen :)"
+    },
+    {
+      "firstName": "Bianca",
+      "alias": "BAW_Bianca",
+      "idea": "MÜNSTER 2040 - Meckern war gestern. Bau’s besser. Bürger*innen wählen einen realen Ort in Münster und entwerfen eine Vision für 2040: grüner, kühler, sozialer, kultureller. KI hilft, diese Idee als Bild und kurze Zukunftsskizze sichtbar zu machen. Die Entwürfe landen auf einer gemeinsamen Stadtkarte. So wird aus Klimaanpassung und Bürgerinnenbeteiligung ein kreativer Möglichkeitsraum: Was wir uns vorstellen können, können wir gestalten."
+    },
+    {
+      "firstName": "Corinna",
+      "alias": "",
+      "idea": "Entwicklung einer Lösung für das Besuchenden-Management (Kontaktaufnahme/ Beschwerden / Buchungen von Touren / Sonstiges)"
+    },
+    {
+      "firstName": "Emily",
+      "alias": "Luna",
+      "idea": "Crowd Control Tracking"
+    },
+    {
+      "firstName": "Farah",
+      "alias": "Farah",
+      "idea": "Wir möchten eine App für Menschen mit Mobilitätseinschränkungen entwickeln, die auf einer Karte die Behindertenparkplätze in Münster anzeigt. Zusätzlich soll es eine sensorgesteuerte Live-Ansicht geben. Da das eigentliche Ziel meist nicht der Parkplatz, sondern z. B. ein nettes Café ist, möchten wir eine Navigation integrieren, die die speziellen Anforderungen von Menschen mit Mobilitätseinschränkungen berücksichtigt.\nDas soll an heißen Tagen auch eine möglichst schattige Route berücksichtigen."
+    },
+    {
+      "firstName": "Georg",
+      "alias": "Igowil",
+      "idea": "Münster-Mesh: Dezentrales, unabhängiges Kommunikationsnetzwerk für Münster auf MeshCore-Basis. Wir kombinieren autarke Solar-Nodes (z. B. im Vogelhaus), mobile Relais per Drohne/Fahrrad und den „Münsterpager“ – ein autarkes Messaging-Gerät für Familien & Digital Detox. Ziel: Krisenfeste Off-Grid-Kommunikation und verlässliches Messaging im Münsterland greifbar und nutzbar machen."
+    },
+    {
+      "firstName": "Hendrik",
+      "alias": "Henno",
+      "idea": "Die Hitzewelle dieses Jahr hat uns allen zugesetzt. Aber besonders für ganz junge und alte Menschen können sie lebensbedrohlich werden. Wir möchten für kühle Wege sorgen und ein Routing-System bauen, das nicht nach kürzester Strecke, sondern nach bspw. Schattenplätzen, Bäumen und Sonnenstand geht."
+    },
+    {
+      "firstName": "Ina",
+      "alias": "",
+      "idea": "SafeLeeze – sichere Fahrradnavigation für Münster Ich möchte vorhandene Münsteraner Daten wie Fahrradunfälle, Radinfrastruktur, Baustellen etc. Nutzen, um Straßenabschnitte nach ihrem Risiko für Radfahrende zu bewerten. Daraus entsteht eine Navigation, die nicht nur die schnellste, sondern auch eine möglichst risikoarme Fahrradroute vorschlägt."
+    },
+    {
+      "firstName": "Judith",
+      "alias": "judith",
+      "idea": "Wir möchten eine App für Menschen mit Mobilitätseinschränkungen entwickeln, die auf einer Karte die Behindertenparkplätze in Münster anzeigt. Zusätzlich soll es eine sensorgesteuerte Live-Ansicht geben. Da das eigentlich Ziel meinst nicht der Parkplatz, sondern z.B. ein nettes Café ist, möchten wir eine Navigation integrieren, die die speziellen Anforderungen von Menschen mit Mobilitätseinschränkungen berücksichtigt.\nDas soll an heißen Tagen auch eine möglichst schattige Route berücksichtigen."
+    },
+    {
+      "firstName": "Luke",
+      "alias": "gratiluke",
+      "idea": "Münsterpager, Münster Mesh basierte Kommunikation im Stadtgebiet für Kinder und Familien und alle, die weniger am Handy sein wollen."
+    },
+    {
+      "firstName": "Marie-Christine",
+      "alias": "mc",
+      "idea": "die Stadt mit interaktiven Kunstwerken/Spielen interessanter machen und Menschen zusammenbringen"
+    },
+    {
+      "firstName": "Markus",
+      "alias": "",
+      "idea": "Hello Heroes ist eine geplante inklusive Plattform und ggf. App, die Menschen mit Behinderung, chronischen Erkrankungen, Unfallopfer oder Menschen Trauererfahrungen im Alltag unterstützt. Von barrierefreier Gastronomie, Kulturangeboten, Reisen und Fashion bis hin zu Therapien, Hilfsmittel, Austausch und Sichtbarkeit schaffen wir einen zentralen Ort für Teilhabe, Unterstützung und echte Inklusion. Gründer: Markus Lewe & Anuschka Bayer."
+    },
+    {
+      "firstName": "Maximilian",
+      "alias": "@buergerhausyork:matrix.org",
+      "idea": "Hallo zusammen, unser gemeinnützigen Verein ist Mieter eines ehemaligen Offizierskasinos, welches von der Stadt Münster zu einem Bürgerhaus umgebaut wird (siehe https://www.yorkquartier.de/zwischen-alt-und-neu). Im Bürgerhaus wollen wir ca. 1.500 Quadratmeter Nutzfläche bespielen und würden gerne ein digitales \"IKEA Planungsstudio\" für unsere Räumlichkeiten ausarbeiten. Viele Grüße von Max aus dem Bürgerhaus York:Kasino in Münster Gremmendorf"
+    },
+    {
+      "firstName": "Naemi",
+      "alias": "Ruby",
+      "idea": "Interaktive Stadtkunstwerke, die zum Mitmachen + Begegnungen anregen. Wir wollen den öffentlichen Raum der Stadt Münster mit kleinen Spielen interessanter + lebenswerter machen.Als erste Kunstinstallation wollen wir eine begehbare LED-Matrix bauen, die durch Druck die Farbe ändert. Damit können Passanten sich zusammenschließen, Bilder aus den betretbaren \"Pixeln\" zu malen, Kinder könnten Spiele damit erfinden. Denkbar wären auch Minispiele wie z.B. Tetris."
+    },
+    {
+      "firstName": "Niharika",
+      "alias": "@niharikaaggarwal:matrix.org",
+      "idea": "LeezenPass – ein digitaler Fahrradpass für Münster. 2025 war in MS jede 7. Straftat ein Fahrraddiebstahl (4.561 Fälle, nur 12,6 % aufgeklärt). Klauen lohnt sich, weil geklaute Leezen leicht weiterverkauft werden – Polizei-App und Online-Registrierung gibt es nicht mehr. Idee: Rad in 2 Min. registrieren (KI liest Foto & Rahmennummer), vor dem Gebrauchtkauf per Rahmennummer prüfen, verifizierter Eigentümerwechsel, Diebstahlmeldung + Community-Sichtungen.\nStack: .NET, React, PostGIS, LLM."
+    },
+    {
+      "firstName": "Nursel",
+      "alias": "",
+      "idea": "„Tausche Kies gegen Blühwiese“ verbindet Klimaschutz, Jugendbeteiligung und Kreislaufwirtschaft. Kinder/Jugendliche/junge Erwachsene, Schulen und Fachbetriebe-Betriebe (Landschaftsarchitekten, Gärtner etc.) entfernen Kiesgärten, legen stattdessen Blühwiesen an und nutzen den Kies für Regenwasserprojekte oder Verkauf zur Finanzierung der Erde/Saaten. Eine geplante App koordiniert Flächen, Teams, Aufwand und Ressourcen und Finanzierung.\nBei Erfolg Klimabeitrag für Münster und darüber hinaus:)"
+    },
+    {
+      "firstName": "Paula",
+      "alias": "paula.ha",
+      "idea": "Eine Plattform, die Gartenbesitzer:innen, die ihren Garten oder die Ernte nicht mehr selbst händeln können oder wollen, mit pflück- und pflegefreudigen Menschen ohne Garten zusammenbringt. Zusätzlich Community- Aktivitäten wie einmaliges Pflücken, Apfelfest..."
+    },
+    {
+      "firstName": "Peter",
+      "alias": "",
+      "idea": "Wir möchten eine App für Menschen mit Mobilitätseinschränkungen entwickeln, die auf einer Karte die Behindertenparkplätze in Münster anzeigt. Zusätzlich soll es eine sensorgesteuerte Live-Ansicht geben Da das eigentliche Ziel meist nicht der Parkplatz, sondern z.B. ein nettes Café ist, möchten wir eine Navigation integrieren, die die speziellen Anforderungen von Menschen mit Mobilitätseinschränkungen berücksichtigt. Das soll an heißen Tagen auch eine möglichst schattige Route berücksichtigen."
+    },
+    {
+      "firstName": "Robert",
+      "alias": "willemelis",
+      "idea": "eine Lösung, die unkompliziert die notwendigen Infos zum Bevölkerungsschutz bereitstellt und mehr als nur ein QR-Code ist, der bei Stromausfall nicht funktioniert"
+    },
+    {
+      "firstName": "Ruwen",
+      "alias": "",
+      "idea": "Entwicklung einer open-source Lösung für das Besuchermanagement von Veranstaltungen, am Beispiel der Skulptur Projekte Münster 2027."
+    },
+    {
+      "firstName": "Stacie",
+      "alias": "",
+      "idea": "Ich möchte eine Wärmemesser app fürs Handy erstellen."
+    },
+    {
+      "firstName": "Steffen",
+      "alias": "Steffen",
+      "idea": "Kiepenkühl: Wir wollen die bereitgestellten OpenData Datasets (Stadtklimaanalyse, Stadt Temperatur) nutzen und den Münsteranern direkt zugänglich machen. Eine Idee ist die nächsten kühlen Orte und Trinkwasserbrunnen in einer App aufzuzeigen und evtl eine Routenplanung mit der kühlsten Route, oder den meisten Eisdielen auf dem Weg."
+    },
+    {
+      "firstName": "Thomas",
+      "alias": "tom",
+      "idea": "Die Stadt Münster bekommt 95 Mio € weniger als geplant und muss dieses Jahr massiv sparen. Wir nehmen den Haushaltsplan der Stadt, der öffentlich als PDF mit >1000 Seiten veröffentlicht wird, mit Datascience auseinander. D.h.: - die fürchterlichen Tabellen die in den PDF drin sind auslesen und die Daten maschinenlesbar machen - Interaktives Dashboard bauen mit Drilldown Funktion und fancy Data Science - Damit auch Laien&Bürger mal gucken können, wo das ganze Geld bleibt."
+    },
+    {
+      "firstName": "Timo",
+      "alias": "Projekt2501",
+      "idea": "Fix my city: Einfache Meldung von Defekten in der Infrastruktur der Stadt zur Reduzierung von Bürokratie und Erhöhung der Beseitigungsgeschwindigkeit."
+    },
+    {
+      "firstName": "Tobias",
+      "alias": "@webwurst:matrix.org",
+      "idea": "Vielleicht mal wieder https://stadtnavi.de/ für Münster? Mal schauen. Aber gut gemeinte Bitte hab ich natürlich auch noch: Anstelle von \"Geschlecht\" würde ich hier oben im Formular lieber \"Ansprache\" auswählen und dort dann gerne \"Vorname\" als Option. ✌"
+    },
+    {
+      "firstName": "Verena",
+      "alias": "",
+      "idea": "Projekt zur Abarbeitung von Besucheranfragen im Rahmen der Skulptur Projekte 2027"
+    },
+    {
+      "firstName": "Viola",
+      "alias": "@viomari:matrix.org",
+      "idea": "Deine gute Tat. Für dich und Münster. Diese App animiert dich zum Sammeln guter Taten, für dich, für andere, für deine Stadt, für Solidarität (und alles mögliche). Du kannst dich von anderen motivieren lassen und andere auch zu guten Taten inspirieren. Wie wollen Solidarität und Selbstwirksamkeit stärken, Menschen im digitalen und analogen Raum in Verbindung bringen und ein Gegengewicht schaffen zu Frustration, „Bad News“ und dem Gefühl von Ohnmacht."
+    }
+  ]
+}

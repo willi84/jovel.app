@@ -1,0 +1,879 @@
+{
+  "source": "https://www.muensterhack.de/projekte",
+  "projects": [
+    {
+      "year": 2025,
+      "title": "Agentic.Muenster",
+      "description": "Durch Agentic.Münster können Münsteraner:innen per (Voice-)Chat Termine beim Bürgerservice buchen und alle für den Termin notwendigen Unterlagen werden dabei gleich auch noch vorbereitet.",
+      "tags": [
+        "Verwaltung"
+      ],
+      "url": "https://agentic.ms"
+    },
+    {
+      "year": 2025,
+      "title": "AIchhörnchen",
+      "description": "AIchhörnchen macht Fundmeldungen kinderleicht – drei Klicks: Foto, Ort, Kontakt, fertig – und KI hilft, Verlorenes zu indexieren und schnell wiederzufinden.",
+      "tags": [
+        "Soziales"
+      ],
+      "url": "https://aichhoernchen.de"
+    },
+    {
+      "year": 2025,
+      "title": "Blindspotter",
+      "description": "Blindspotter ist ein Tool, mit dem Planer lokale Planungsentscheidungen aus der Perspektive der Menschen betrachten können, die in dem betroffenen Gebiet leben.",
+      "tags": [
+        "StadtPlanung"
+      ]
+    },
+    {
+      "year": 2025,
+      "title": "GiveGurus",
+      "description": "Wir machen Münsters Sharing Infrastruktur Digital sichtbar und leichter zugänglich für jeden.",
+      "tags": [
+        "Nachhaltigkeit",
+        "Soziales"
+      ],
+      "url": "https://kiepenkiste.de"
+    },
+    {
+      "year": 2025,
+      "title": "Münster 1535",
+      "description": "Münster 1535 mittendrin - wir wollen Münsters Geschichte erlebbar machen - interaktiv und mit moderner Virtual Reality Technologie.",
+      "tags": [
+        "Kultur",
+        "Tourismus"
+      ]
+    },
+    {
+      "year": 2025,
+      "title": "Münster Easy",
+      "description": "Wir erstellen eine Karte mit Baustellen und anderen Hindernissen, perspektivisch auch ein Routing für barrierefreie Mobilität.",
+      "tags": [
+        "Mobilität",
+        "StadtPlanung",
+        "Soziales"
+      ]
+    },
+    {
+      "year": 2025,
+      "title": "Nestflix",
+      "description": "Wir machen Naturschutz erlebbar durch DIY-Smart-Nistkästen mit Live-Streaming und Citizen Science für alle.",
+      "tags": [
+        "Umwelt"
+      ]
+    },
+    {
+      "year": 2025,
+      "title": "Open Ampel",
+      "description": "Wir haben Lezenflow weiterentwickelt: Mit unserer App können FahrradfahrerInnen Informationen erhalten, wann die nächste Ampel auf schaltet und ob es sich noch lohnt Gas zu geben.",
+      "tags": [
+        "Mobilität",
+        "Fahrrad"
+      ]
+    },
+    {
+      "year": 2025,
+      "title": "Rätselrausch",
+      "description": "Rätselrausch ist die Quiz-App für Münsters Kneipenkultur: gesellig, clever, mit echten Prämien für deine Erfolge.",
+      "tags": [
+        "Freizeit",
+        "Kultur"
+      ]
+    },
+    {
+      "year": 2025,
+      "title": "Smart Bike",
+      "description": "Wir rüsten Fahrräder mit intelligenten Fahrassistenten aus, um Verkehrssicherheit und Komfort im Alltag zu verbessern.",
+      "tags": [
+        "Mobilität",
+        "Fahrrad",
+        "Sicherheit"
+      ]
+    },
+    {
+      "year": 2025,
+      "title": "Stolperstimme",
+      "description": "Die Stolperstimme ist dein Gesprächspartner mit dem historischen Wissen zu Stolpersteinen. Du hast ganz persönliche Fragen? Münsters Stolpersteine bekommen eine Stimme. Und sie spricht direkt mit dir.",
+      "tags": [
+        "Kultur"
+      ],
+      "url": "https://stolperstimme.de"
+    },
+    {
+      "year": 2024,
+      "title": "BusBonus",
+      "description": "Wir wollen Münsters Straßen autofreier machen, indem wir eine mobile App entwickeln, um die Nutzung öffentlicher Verkehrsmittel zu fördern.",
+      "tags": [
+        "ÖPNV",
+        "Mobilität"
+      ]
+    },
+    {
+      "year": 2024,
+      "title": "climate|MS",
+      "description": "climate|MS ermöglicht demokratische Kontrolle, indem wir die Klimaschutzmaßnahmen der Stadt und Gesellschaft kritisch präsentieren und Möglichkeiten zur Beteiligung aufzeigen.",
+      "tags": [
+        "Klima",
+        "StadtPlanung",
+        "Verwaltung"
+      ]
+    },
+    {
+      "year": 2024,
+      "title": "Corndex",
+      "description": "Mit Corndex bieten wir eine smarte Lösung, die Lärm an Kiosken reduziert, indem wir Bierpreise dynamisch an den Lärmpegel anpassen und so für eine entspannte Atmosphäre sorgen.",
+      "tags": [
+        "Freizeit"
+      ]
+    },
+    {
+      "year": 2024,
+      "title": "Leistungsdiagnostik",
+      "description": "Wir bringen den Leistungs- und Breitensport in Münster durch unsere Scouting-Mess-App auf ein neues Level und machen die Stadt über ihre Grenzen hinaus bekannter.",
+      "tags": [
+        "Sport"
+      ]
+    },
+    {
+      "year": 2024,
+      "title": "MüMa",
+      "description": "Wir alle lieben den Münsteraner Markt - und wir wollen ihn noch liebenswerter machen! Unsere Webseite verbessert den wöchentlichen Besuch auf dem Markt.",
+      "tags": [
+        "Freizeit",
+        "StadtPlanung"
+      ]
+    },
+    {
+      "year": 2024,
+      "title": "Münster interessiert's",
+      "description": "Mit unserem wöchentlichen, auto-generierten Podcast machen wir Politik in Münster niederschwellig zugänglich - personalisiert auf persönliche Interessen der Hörenden.",
+      "tags": [
+        "Kultur",
+        "Verwaltung"
+      ],
+      "url": "https://muenster-interessierts.de"
+    },
+    {
+      "year": 2024,
+      "title": "Münster Portal",
+      "description": "Ein Stadtportal von Münsteranerinnen für Münsteranerinnen. Durch Wikipedia-Technologie, gepaart mit KI-Suche geben wir den Bürger*nnen die Informationshoheit wieder in die Hand.",
+      "tags": [
+        "Verwaltung",
+        "Kultur",
+        "OpenData"
+      ],
+      "url": "https://www.muenster4you.de"
+    },
+    {
+      "year": 2024,
+      "title": "Münster Tag",
+      "description": "Unsere App lädt Menschen, egal ob Münsteraner:in oder Tourist:in, dazu ein, die vielen wundervollen Orte Münsters aufzusuchen und spielerisch zu entdecken.",
+      "tags": [
+        "Tourismus",
+        "Freizeit"
+      ]
+    },
+    {
+      "year": 2024,
+      "title": "organigra.ms",
+      "description": "organigra.ms schafft Transparenz durch Organigramme der Stadt Münster, erleichtert den Überblick über Zuständigkeiten und fördert politische Bildung.",
+      "tags": [
+        "Verwaltung",
+        "StadtPlanung"
+      ]
+    },
+    {
+      "year": 2024,
+      "title": "StayGuide",
+      "description": "Unser Ziel ist es, den Einbürgerungsprozess in Münster benutzerfreundlicher und verständlicher zu gestalten. Wir haben eine interaktive Webapp entwickelt, die den Prozess Schritt für Schritt erklärt",
+      "tags": [
+        "Verwaltung",
+        "Soziales"
+      ]
+    },
+    {
+      "year": 2024,
+      "title": "Was geht Münster?",
+      "description": "Wir vernetzen dich mit deinen neuen Hobby-Buddies in Münster.",
+      "tags": [
+        "Freizeit",
+        "Soziales"
+      ]
+    },
+    {
+      "year": 2023,
+      "title": "1648_reloaded",
+      "description": "Wir nutzen den stillliegenden Publikumsmagneten Spieltisch zum Westfälischen Frieden des LWL Museums für Kunst und Kultur und machen ihn zu einer erweiterbaren OpenSource Platform, der sich auch andere Museen bedienen können.",
+      "tags": [
+        "Kultur"
+      ],
+      "url": "https://www.lwl.org"
+    },
+    {
+      "year": 2023,
+      "title": "Crowd-Mining",
+      "description": "Wir wollen die Polizei und Menschen in Münster über aktuelle und zukünftige Menschenansammlungen frühzeitig informieren und hierzu OpenData zur Ermittlung nutzen.",
+      "tags": [
+        "OpenData",
+        "Sicherheit",
+        "StadtPlanung"
+      ]
+    },
+    {
+      "year": 2023,
+      "title": "Helpwave Impulse",
+      "description": "Wir helfen Münsteraner:innen, zusammen mit und in ihrer direkten Umgebung gesünder zu leben und spielerisch gesundheitlichen Problemen vorzubeugen.",
+      "tags": [
+        "Gesundheit",
+        "Soziales"
+      ],
+      "url": "https://helpwave.de"
+    },
+    {
+      "year": 2023,
+      "title": "Hin und weg",
+      "description": "Dein Umzug in Münster kann mehr als nur ein Wohnortwechsel sein: Mit HinUndWeg wird dein Umzug zu einer Gelegenheit, überflüssige Gegenstände einfach zu spenden, reparieren zu lassen oder korrekt zu entsorgen.",
+      "tags": [
+        "Nachhaltigkeit",
+        "Soziales"
+      ]
+    },
+    {
+      "year": 2023,
+      "title": "JourneyMate",
+      "description": "JourneyMate, dein virtueller Assistent, der dir dabei hilft, dich mit gesundheitlichen Tipps fit zu halten und gleichzeitig die Stadt Münster zu erkunden.",
+      "tags": [
+        "Gesundheit",
+        "Tourismus"
+      ]
+    },
+    {
+      "year": 2023,
+      "title": "MEETMÜNSTER",
+      "description": "Wir wollen deine Stadt für dich erlebbar machen. Mithilfe von KI-generierten Stadtführungen, zugeschnitten auf deine Interessen, entdeckst du Münster auf deine persönliche Art und Weise.",
+      "tags": [
+        "Tourismus"
+      ]
+    },
+    {
+      "year": 2023,
+      "title": "Münster GPT",
+      "description": "Wir haben einen Chat-Assistenten für die Bürgerinnen und Bürger der Stadt Münster entwickelt, der ihnen dabei hilft, Fragen rundum den Bürgerservice schneller zu beantworten.",
+      "tags": [
+        "Verwaltung"
+      ]
+    },
+    {
+      "year": 2023,
+      "title": "münster heat map",
+      "description": "Wir informieren Münster und zeigen mit Hilfe von KI und OpenData die zukünftige Wärmeversorgung sowie Alternativen auf.",
+      "tags": [
+        "Energie",
+        "Klima",
+        "OpenData"
+      ]
+    },
+    {
+      "year": 2023,
+      "title": "Office-Bites",
+      "description": "Wir erstellen eine Plattform für Foodtrucks, mit der Nutzer:innen deren aktuellen Standort verfolgen können und so die Pause zu Erholung werden lassen und nicht zur Wartezeit.",
+      "tags": [
+        "Freizeit",
+        "StadtPlanung"
+      ]
+    },
+    {
+      "year": 2023,
+      "title": "Open Tags",
+      "description": "OpenTags sind quelloffene, preiswerte IoT-Trackinggeräte, welche Privatsphäre garantieren und höchste Sicherheits- und Datenschutzanforderungen erfüllen, um Gegenstände in Echtzeit zu verfolgen.",
+      "tags": [
+        "Sicherheit"
+      ]
+    },
+    {
+      "year": 2023,
+      "title": "Park|Frei",
+      "description": "Wir sensibilisieren die Münsteraner:innen für das Thema Mobilitätswende, indem wir die Vorteile autoreduzierter Wohnquartiere aufzeigen, alternative Verkehrsmittel zum Auto stärken und Interessensgruppen miteinander vernetzen und mobilisieren.",
+      "tags": [
+        "Mobilität",
+        "StadtPlanung",
+        "Klima"
+      ]
+    },
+    {
+      "year": 2023,
+      "title": "ScanBus",
+      "description": "Wir machen den Weg frei für Busse in Münster. Durch das intelligente Sammeln von Daten beseitigen wir Hindernisse auf Busspuren und helfen der Stadt bei der Städteplanung.",
+      "tags": [
+        "ÖPNV",
+        "StadtPlanung"
+      ]
+    },
+    {
+      "year": 2023,
+      "title": "Shake Map",
+      "description": "Wir entwickeln eine kostengünstige Sensorplattform zur kontinuierlichen automatischen Bewertung von Radwegen.",
+      "tags": [
+        "Mobilität",
+        "Fahrrad",
+        "StadtPlanung"
+      ]
+    },
+    {
+      "year": 2023,
+      "title": "StartMoving",
+      "description": "Wir stoppen das Vereinssterben, indem wir Sportbegeisterte und Vereine vernetzen und ein zugängliches Angebot für Interessierte bereitstellen.",
+      "tags": [
+        "Sport",
+        "Soziales"
+      ]
+    },
+    {
+      "year": 2023,
+      "title": "Urban Safari",
+      "description": "Wir motivieren Bürger:innen zur Entdeckung von Münsters Insektenwelt mittels einer KI-basierten Fotoanalyse. Zu jedem Tier erhält der Nutzende Informationen und kann Abzeichen sammeln.",
+      "tags": [
+        "Umwelt",
+        "Freizeit"
+      ]
+    },
+    {
+      "year": 2022,
+      "title": "AppFall",
+      "description": "AppFall hört nicht bei der richtigen Tonne auf - Unser intelligenter Begleiter für ressourcenschonenden Konsum macht ganz Münster zum Wertstoffhof.",
+      "tags": [
+        "Nachhaltigkeit"
+      ]
+    },
+    {
+      "year": 2022,
+      "title": "fixMS",
+      "description": "fixMS bietet userfreundlichere Interfaces für das Mängelmeldeformular der Stadt Münster, was deren Behebung vereinfacht und somit die Lebensqualität steigert.",
+      "tags": [
+        "Verwaltung",
+        "StadtPlanung"
+      ]
+    },
+    {
+      "year": 2022,
+      "title": "Give Boxen",
+      "description": "Wir eröffnen für Giveboxen in Münster eine digitale Community und schaffen einfachen digitalen Zugang zu Infos, Events und Austausch mit Nutzern und Paten.",
+      "tags": [
+        "Nachhaltigkeit",
+        "Soziales"
+      ]
+    },
+    {
+      "year": 2022,
+      "title": "Greenspire",
+      "description": "Greenspire ist eine App, die Benutzer inspiriert, nachhaltige (Inter-)Aktionen mit unserer Stadt Münster in den Alltag zu integrieren.",
+      "tags": [
+        "Nachhaltigkeit",
+        "Klima"
+      ]
+    },
+    {
+      "year": 2022,
+      "title": "helpwave",
+      "description": "helpwave hilft dabei Ersthelfer:innen in unmittelbarer Nähe zu Notfallorten zu mobilisieren, um eine erste Versorgung noch vor dem Eintreffen des RTWs gewährleisten zu können.",
+      "tags": [
+        "Gesundheit",
+        "Sicherheit"
+      ],
+      "url": "https://helpwave.de"
+    },
+    {
+      "year": 2022,
+      "title": "Jovel Flag",
+      "description": "Jovel Flag ist eine App mit der ihr virtuelle Flaggen in ganz Münster sammeln könnt und die euch dazu animiert von euch noch unentdeckte Orte zu erkunden.",
+      "tags": [
+        "Freizeit",
+        "Tourismus"
+      ]
+    },
+    {
+      "year": 2022,
+      "title": "JovelDogs",
+      "description": "Wir lieben Hunde, aber auch eine saubere Stadt.",
+      "tags": [
+        "StadtPlanung"
+      ]
+    },
+    {
+      "year": 2022,
+      "title": "Moodmacher",
+      "description": "Wir möchten in der dunklen Jahreszeit die Stimmung der MünsteranerInnen durch motivierende Texte und Botschaften aufhellen.",
+      "tags": [
+        "Soziales"
+      ]
+    },
+    {
+      "year": 2022,
+      "title": "Münster Safe Place",
+      "description": "Wie ein Leuchtfeuer begleitet Safespace die Menschen sicher auf ihrem Heimweg. Safespace zeigt Orte, die Nachts gemieden werden sollten und stellt sichere Häfen in Echtzeit auf der Karte dar.",
+      "tags": [
+        "Sicherheit"
+      ]
+    },
+    {
+      "year": 2022,
+      "title": "Münster.jetzt",
+      "description": "We’re leveraging 3D visualization of Open Data to support multiple use cases for tourism, city planning and citizens.",
+      "tags": [
+        "OpenData",
+        "Tourismus",
+        "StadtPlanung"
+      ]
+    },
+    {
+      "year": 2022,
+      "title": "Sozialkompass",
+      "description": "Das Formular sollte dich finden und nicht du das Formular: Der Sozialkompass navigiert dich multilingual und barrierefrei durch Münsters Antrag-Albtraum!",
+      "tags": [
+        "Verwaltung",
+        "Soziales"
+      ],
+      "url": "https://sozialkompass.info"
+    },
+    {
+      "year": 2022,
+      "title": "Strom///Tiger",
+      "description": "Wir verringern den Strompreisanstieg für Endverbraucher durch genauere Stromlastprognosen bei Energieversorgern, indem wir zusätzliche Einkaufskosten senken.",
+      "tags": [
+        "Energie"
+      ]
+    },
+    {
+      "year": 2022,
+      "title": "WObility?",
+      "description": "Mit WObility lassen sich auf einen Blick die attraktivsten Standorte für öffentliche Ladeinfrastruktur auf gewerblichen Flächen identifizieren – für eine lückenloses Ladenetz in Münster!",
+      "tags": [
+        "Mobilität",
+        "Energie"
+      ]
+    },
+    {
+      "year": 2021,
+      "title": "Blutspende App",
+      "description": "Unkompliziert und schnell - Online-Blutspende-Termine für Münsteraner:innen - weil Blut spenden mehr bedeutet, als nur eine weitere Blutkonserve, Blutkonserven retten Leben.",
+      "tags": [
+        "Gesundheit"
+      ]
+    },
+    {
+      "year": 2021,
+      "title": "data-inspire.me",
+      "description": "Münsters OpenData und wir zeigen euch was drin steckt! Wir bieten den spielerisch-transparenten Einblick im Web und App über die OpenData von Münster.",
+      "tags": [
+        "OpenData"
+      ],
+      "url": "https://data-inspire-me.gitlab.io"
+    },
+    {
+      "year": 2021,
+      "title": "Fahrradprognose",
+      "description": "Bike Traffic Map MS - Wir wollen die Traffic Map für den Radverkehr in Münster entwickeln, wie es sie bisher nur für Autos gibt.",
+      "tags": [
+        "Mobilität",
+        "Fahrrad"
+      ]
+    },
+    {
+      "year": 2021,
+      "title": "Leezenflow 2.0",
+      "description": "Nie wieder rote Ampeln. Wir bringen die Grüne Welle für Fahrräder in die ganze Stadt. Vom Münsterhack 2019 bis jetzt hat sich viel getan.",
+      "tags": [
+        "Mobilität",
+        "Fahrrad"
+      ],
+      "url": "https://smartcity.ms"
+    },
+    {
+      "year": 2021,
+      "title": "Muenster.dev Ideenkooperative",
+      "description": "Was passiert mit all den Ideen, die bereits vorhanden sind und nicht weiterkommen? Wie kommen diese Ideen mit den passenden Köpfen zusammen?",
+      "tags": [
+        "Soziales"
+      ]
+    },
+    {
+      "year": 2021,
+      "title": "Muskebeers",
+      "description": "Die Muskebeers liefert Spaß mit Knobeln, Sport mit Bewegung und Informationen die nicht jeder kennt. Eine Webapp, um alleine oder auch in Gruppen, über verschiedene Fragen zu rätseln.",
+      "tags": [
+        "Freizeit",
+        "Sport"
+      ]
+    },
+    {
+      "year": 2021,
+      "title": "MySports",
+      "description": "Unsere Sport (Spot) App, ermöglicht den Münsteranern, sich über eine Interaktie Map mit hilfe von SportSpots zu verknüpfen und sich gemeinsam zu Motivieren und neue Interessen zu entdecken.",
+      "tags": [
+        "Sport",
+        "Freizeit"
+      ]
+    },
+    {
+      "year": 2021,
+      "title": "Nestwerk",
+      "description": "Wir kämpfen mit nest.werk für das Netzwerken von Familien und vereinen eine community von Eltern im safe space. Dafür kombinieren wir einen Veranstaltungskalender, Tauschbörsen, einen Spielplatztalk und Gruppenchats.",
+      "tags": [
+        "Soziales"
+      ]
+    },
+    {
+      "year": 2021,
+      "title": "REvent",
+      "description": "Endlich nach fünf Versuchen! Revent mit der neuen Möglichkeit für Münster Veranstaltungen digital zu bewerben.",
+      "tags": [
+        "Events"
+      ]
+    },
+    {
+      "year": 2021,
+      "title": "SoFiE (Solar Finder Engine)",
+      "description": "Wir erkennen bereits gebaute PV-Anlagen mittels eines Machine Learning Models und unterstützen somit beim gezielten Ausbau von PV-Anlagen zur Erreichung der Klimaziele.",
+      "tags": [
+        "Energie",
+        "Klima"
+      ]
+    },
+    {
+      "year": 2021,
+      "title": "Sunny Spots",
+      "description": "Sunny Spots entwickelt eine App, die Münsteraner:innen mit Hilfe von 3D-Stadtmodellen und Lichtsimulation an sonnige Orte führt.",
+      "tags": [
+        "Freizeit",
+        "StadtPlanung"
+      ]
+    },
+    {
+      "year": 2021,
+      "title": "WhoCares",
+      "description": "Wo finde ich als Senior Hilfe in Haushalt oder bei der Pflege? stellt auf Grund intransparenter und knapper Angebote eine riesige Herausforderung für Senioren und Angehörige dar.",
+      "tags": [
+        "Soziales",
+        "Gesundheit"
+      ]
+    },
+    {
+      "year": 2020,
+      "title": "Fibre to the Stuhl",
+      "description": "Infektionsketten sind für Gesundheitsämter aufwändig zu verfolgen. Anrufe, E-Mails und Briefe. Viele verschiedene Kanäle und kein zentraler Überblick. Wir machen Schluss damit!",
+      "tags": [
+        "Gesundheit",
+        "Verwaltung"
+      ]
+    },
+    {
+      "year": 2020,
+      "title": "grookie.ms - Einfach. Nachhaltig",
+      "description": "Wir ermöglichen einen leichten Einstieg in einen nachhaltigen Lifestyle für Münsteraner:innen.",
+      "tags": [
+        "Nachhaltigkeit"
+      ]
+    },
+    {
+      "year": 2020,
+      "title": "Irgendwas mit Innovation",
+      "description": "Innovation von Münster für Münster",
+      "tags": [
+        "StadtPlanung"
+      ]
+    },
+    {
+      "year": 2020,
+      "title": "KlimaHeroes",
+      "description": "Mit KlimaHeroes motivierst Du Dich und Deine Freunde spielerisch, im Alltag einen nachhaltigeren Lebensstil zu führen- mit klimarelevanten Echtzeitdaten aus ganz Münster.",
+      "tags": [
+        "Klima",
+        "Nachhaltigkeit"
+      ]
+    },
+    {
+      "year": 2020,
+      "title": "Mo:ve MS",
+      "description": "Mobilitätsversprechen für Münster ist eine ÖPNV-Ticketapp in der gegen ein 20ctUupgrade zum Bus-Ticket Verspätungen automatisch erkannt und in eine Tier-Scooter Fahrt umgewandelt werden.",
+      "tags": [
+        "ÖPNV",
+        "Mobilität"
+      ]
+    },
+    {
+      "year": 2020,
+      "title": "MS Mobility",
+      "description": "Eine App für smarte Mobilität in Münster",
+      "tags": [
+        "Mobilität"
+      ]
+    },
+    {
+      "year": 2020,
+      "title": "Münster was geht?",
+      "description": "Verlieb Dich neu in Deine Stadt - Finde Orte und Events, die wirklich zu Dir passen!",
+      "tags": [
+        "Events",
+        "Freizeit"
+      ]
+    },
+    {
+      "year": 2020,
+      "title": "Münster zählt",
+      "description": "Crowd Counting Plattform zur IoT-basierten und anonymisierten Personenzählung",
+      "tags": [
+        "StadtPlanung",
+        "Sicherheit"
+      ]
+    },
+    {
+      "year": 2020,
+      "title": "ÖffiFlow",
+      "description": "Wo hakts? Der Bus der sagts!",
+      "tags": [
+        "ÖPNV"
+      ]
+    },
+    {
+      "year": 2020,
+      "title": "Offline-Corona-Tracking-App",
+      "description": "Wor machen Schluss mit Zettelchaos und verlagern die Corona Kontaktdaten auf das Gerät deiner Wahl. So hast du trotzdem immer die Kontrolle.",
+      "tags": [
+        "Gesundheit"
+      ]
+    },
+    {
+      "year": 2020,
+      "title": "Parkraummanagement",
+      "description": "Auf der Suche nach einem freien Parkplatz? Genervt von Falschparkern und Pseudo-Elektroautos? Mit Münster:parkme wird die Parkplatzsuche smart.",
+      "tags": [
+        "Mobilität",
+        "Parken"
+      ]
+    },
+    {
+      "year": 2020,
+      "title": "Stadtgeschichte für die Zukunft",
+      "description": "50 Jahre Schülerforschung in Münster? Digitalize it!",
+      "tags": [
+        "Bildung",
+        "Kultur"
+      ],
+      "url": "https://www.geschichtswettbewerb-ms.de"
+    },
+    {
+      "year": 2020,
+      "title": "TerminMS",
+      "description": "Coronafrisur, Coronatest, Coronasoforthilfe – für alles braucht man Termine: TerminMS – Terminvereinbarung direkt und intuitiv auf einer Plattform",
+      "tags": [
+        "Verwaltung",
+        "Gesundheit"
+      ]
+    },
+    {
+      "year": 2020,
+      "title": "TourisMS",
+      "description": "Stadtführungen neu gedacht - wir verweben das Digitale mit dem Analogen, um eine neue Erfahrung für alte Sehenswürdigkeiten zu bieten",
+      "tags": [
+        "Tourismus",
+        "Kultur"
+      ]
+    },
+    {
+      "year": 2019,
+      "title": "Flatmap",
+      "description": "Eine Heatmap zeigt user-individuelle Orte in Münster an, die den jeweiligen Wohn-Vorlieben entsprechen.",
+      "tags": [
+        "StadtPlanung"
+      ]
+    },
+    {
+      "year": 2019,
+      "title": "Grüne Welle",
+      "description": "Grüne Welle für die Leeze – Schneller und sicherer durch Münster mit Visualisierung und Vorhersage von Ampelphasen.",
+      "tags": [
+        "Mobilität",
+        "Fahrrad"
+      ],
+      "url": "https://smartcity.ms"
+    },
+    {
+      "year": 2019,
+      "title": "Humiditree",
+      "description": "Eine Gieß-Community für Münsters Stadtbäume, um ein gutes städtisches Klima zu bewahren.",
+      "tags": [
+        "Umwelt",
+        "Klima",
+        "Nachhaltigkeit"
+      ]
+    },
+    {
+      "year": 2019,
+      "title": "Kraut & Rüben",
+      "description": "Eine App für den Wochenmarkt, um den Einkauf mit Karte und Suche zu erleichtern",
+      "tags": [
+        "Freizeit",
+        "StadtPlanung"
+      ]
+    },
+    {
+      "year": 2019,
+      "title": "Münster Info Hub",
+      "description": "Topaktuelle Veranstaltungsinformationen, maßgeschneidert für Besucher und Ortsansässige",
+      "tags": [
+        "Events",
+        "Tourismus"
+      ]
+    },
+    {
+      "year": 2019,
+      "title": "MünsterBot",
+      "description": "Ein Bot der dir in Messager alles rund um Münster sagen kann Proaktiv oder auf Nachfrage. Dazu gibt es von Nutzern erstellte Beiträge um generelle Informationen zu ergänzen.",
+      "tags": [
+        "Tourismus",
+        "Verwaltung"
+      ]
+    },
+    {
+      "year": 2019,
+      "title": "Pirol",
+      "description": "Eine Kombination aus Mobile-App und Webapp verbindet und unterstützt Bürger, Behörden und Unternehmen bei der gemeinsammen Bekämpfung der Eichenprozessionsspinner",
+      "tags": [
+        "Umwelt"
+      ]
+    },
+    {
+      "year": 2019,
+      "title": "Wasserqualitäts-Monitoring",
+      "description": "Messstationen zur Überwachung der Wasserqualität entlang eines Gewässers zur Lokalisierung von eingeleiteten Verschmutzungen.",
+      "tags": [
+        "Umwelt"
+      ]
+    },
+    {
+      "year": 2018,
+      "title": "Bussistant",
+      "description": "Frustfreies Busfahren: Zuverlässige Abfahrzeit-Vorhersagen per Sprachassistent auf Basis von aktuellen Verkehrs- und Twitter-Daten",
+      "tags": [
+        "ÖPNV"
+      ]
+    },
+    {
+      "year": 2018,
+      "title": "FunDing",
+      "description": "Dat macht Fez - FUN-Ding! - Ideen, Förderer, Macher!",
+      "tags": [
+        "Soziales"
+      ]
+    },
+    {
+      "year": 2018,
+      "title": "Hack(a)Tonne",
+      "description": "Aasee Sensorik / Monitoring für bessere Gewässeranalytik/-vorhersage",
+      "tags": [
+        "Umwelt"
+      ],
+      "url": "https://smartcity.ms"
+    },
+    {
+      "year": 2018,
+      "title": "Leezen Hunter",
+      "description": "LeezenHunter - Wir finden deine Leeze!",
+      "tags": [
+        "Mobilität",
+        "Fahrrad"
+      ]
+    },
+    {
+      "year": 2018,
+      "title": "Stadtteilzeitung",
+      "description": "Die Online- und Print-Zeitung von und für Bewohner und Bewohnerinnen der Stadtteile in Münster.",
+      "tags": [
+        "Kultur"
+      ],
+      "url": "https://mein-ms.de"
+    },
+    {
+      "year": 2018,
+      "title": "Taschengeldbörse",
+      "description": "Der schnelle und effiziente Marktplatz zur einfachen Koordination und Vermittlung von helfenden Händen für Senioren",
+      "tags": [
+        "Soziales"
+      ],
+      "url": "https://www.taschengeldboerse-muenster.de"
+    },
+    {
+      "year": 2018,
+      "title": "The Parking Dutchmen",
+      "description": "Eine mobile App, die freie Parkplätze in Münster anhand der Vergangenheit vorhersagt und Verkehr smart steuert.",
+      "tags": [
+        "Mobilität",
+        "Parken"
+      ]
+    },
+    {
+      "year": 2018,
+      "title": "Was geht - Event-App mit Chatbot",
+      "description": "Eine Veranstaltungs-App mit einem Telegram-Chatbot, der auf Anfrage vorschläge in Gruppen macht, was unternommen werden kann.",
+      "tags": [
+        "Events",
+        "Freizeit"
+      ]
+    },
+    {
+      "year": 2018,
+      "title": "Weihnachtsmarkt App",
+      "description": "Weihnachtsmarkt auf deinem Phone",
+      "tags": [
+        "Events",
+        "Freizeit"
+      ]
+    },
+    {
+      "year": 2017,
+      "title": "Bus Reality",
+      "description": "Voraussagen von Busverspätungen jeder Linie und an jeder Haltestelle",
+      "tags": [
+        "ÖPNV"
+      ]
+    },
+    {
+      "year": 2017,
+      "title": "Familien Dashboard",
+      "description": "Eine Stadtviertel-App, zeigt Infos aus Deiner Umgebung an, aus Open Data Datensätzen der Stadt Münster.",
+      "tags": [
+        "Soziales",
+        "OpenData"
+      ]
+    },
+    {
+      "year": 2017,
+      "title": "Leihleeze",
+      "description": "Sharing für Fahrräder in Münster via Smartphone mit Push-Notifications und per Alexa Spracheingabe.",
+      "tags": [
+        "Mobilität",
+        "Fahrrad",
+        "Nachhaltigkeit"
+      ]
+    },
+    {
+      "year": 2017,
+      "title": "Masematte",
+      "description": "Digitales Masematte-Wörterbuch",
+      "tags": [
+        "Kultur",
+        "Bildung"
+      ]
+    },
+    {
+      "year": 2017,
+      "title": "Münster Event",
+      "description": "Zentraler Event-Kalender für Münster",
+      "tags": [
+        "Events"
+      ]
+    }
+  ]
+}

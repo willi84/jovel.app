@@ -1,0 +1,198 @@
+{
+  "catering": {
+    "drinks": {
+      "availability": "durchgehend",
+      "description": "Es stehen geschlossene Getränke in Kühlschränken bereit.",
+      "pizzaDinner": "Beim Pizzadinner gibt es Fassbier (Pinkus)."
+    }
+  },
+  "events": [
+    {
+      "date": "2026-09-25",
+      "day": "Freitag",
+      "start": "09:00",
+      "title": "Begrüßung und Einführung",
+      "location": {
+        "name": "items Hafen Lounge",
+        "address": "Hafenweg 7"
+      },
+      "online": "auf Anfrage"
+    },
+    {
+      "date": "2026-09-25",
+      "day": "Freitag",
+      "start": "09:00",
+      "end": "10:00",
+      "title": "Frühstück",
+      "type": "catering",
+      "description": "Getränke und Brötchen. Bereitgestellt durch die Kantine der Stadtwerke Münster.",
+      "location": {
+        "name": "items Hafen Lounge",
+        "address": "Hafenweg 7"
+      }
+    },
+    {
+      "date": "2026-09-25",
+      "day": "Freitag",
+      "start": "09:30",
+      "title": "Impulsvorträge",
+      "topics": [
+        "Agentic Engineering",
+        "Stadtwerke / Smart City",
+        "Open Data und Datenplattformen",
+        "Sensebox Upgrades",
+        "Nachgeha(c)kt"
+      ],
+      "location": {
+        "name": "items Hafen Lounge",
+        "address": "Hafenweg 7"
+      },
+      "online": "auf Anfrage"
+    },
+    {
+      "date": "2026-09-25",
+      "day": "Freitag",
+      "start": "11:00",
+      "title": "Ideenpitch, Teamfindung und Anmeldung",
+      "location": {
+        "name": "items Hafen Lounge",
+        "address": "Hafenweg 7"
+      },
+      "online": "auf Anfrage"
+    },
+    {
+      "date": "2026-09-25",
+      "day": "Freitag",
+      "start": "12:00",
+      "title": "Hacking in Teams",
+      "locations": [
+        {
+          "name": "Münsterland Digitalhub",
+          "address": "Hafenweg 16"
+        },
+        {
+          "name": "items",
+          "address": "Hafenweg 7"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-25",
+      "day": "Freitag",
+      "start": "13:00",
+      "end": "15:00",
+      "title": "Mittagessen",
+      "type": "catering",
+      "description": "Foodtruck im Außenbereich vor dem Digital Hub.",
+      "location": {
+        "name": "Digital Hub Münsterland",
+        "address": "Hafenweg 16"
+      }
+    },
+    {
+      "date": "2026-09-25",
+      "day": "Freitag",
+      "start": "15:00",
+      "title": "Sessions mit Mentorinnen und Mentoren",
+      "url": "https://muensterhack.de/#mentoren"
+    },
+    {
+      "date": "2026-09-25",
+      "day": "Freitag",
+      "start": "17:00",
+      "title": "Interner Feedback Pitch"
+    },
+    {
+      "date": "2026-09-25",
+      "day": "Freitag",
+      "start": "19:00",
+      "title": "Legendäres Pizza-Dinner",
+      "type": "catering",
+      "description": "Pizzaausgabe und Getränke sowie Auslosung der Startreihenfolge. Fassbier (Pinkus).",
+      "location": {
+        "name": "Digital Hub Münsterland",
+        "address": "Hafenweg 16"
+      }
+    },
+    {
+      "date": "2026-09-26",
+      "day": "Samstag",
+      "start": "09:00",
+      "title": "Gemeinsames Frühstück",
+      "type": "catering",
+      "location": {
+        "name": "items Hafen Lounge",
+        "address": "Hafenweg 7"
+      }
+    },
+    {
+      "date": "2026-09-26",
+      "day": "Samstag",
+      "start": "09:00",
+      "end": "16:00",
+      "title": "Hacking in Teams",
+      "locations": [
+        {
+          "name": "Münsterland Digitalhub",
+          "address": "Hafenweg 16"
+        },
+        {
+          "name": "items",
+          "address": "Hafenweg 7"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-26",
+      "day": "Samstag",
+      "start": "12:00",
+      "end": "14:30",
+      "title": "Mittagessen",
+      "type": "catering",
+      "description": "Essen im Pastaro.",
+      "location": {
+        "name": "Pastaro",
+        "address": "Hansaring 37, 48155 Münster"
+      }
+    },
+    {
+      "date": "2026-09-26",
+      "day": "Samstag",
+      "start": "16:00",
+      "title": "Abschlussevent und Preisverleihung",
+      "description": "Abschlusspitch und Preisverleihung mit Grußwort des Schirmherrn",
+      "location": {
+        "name": "items Hafen Lounge",
+        "address": "Hafenweg 7"
+      },
+      "livestream": "https://www.muensterhack.de/",
+      "url": "https://muensterhack.de/#schirmherr"
+    },
+    {
+      "date": "2026-09-26",
+      "day": "Samstag",
+      "start": "17:30",
+      "title": "Abendessen",
+      "type": "catering",
+      "location": {
+        "name": "items Hafen Lounge",
+        "address": "Hafenweg 7"
+      }
+    },
+    {
+      "date": "2026-09-26",
+      "day": "Samstag",
+      "start": "19:00",
+      "title": "Jubiläumsparty"
+    },
+    {
+      "date": "2026-09-26",
+      "day": "Samstag",
+      "start": "19:30",
+      "title": "Ausklang",
+      "location": {
+        "name": "Eulen & Lerchen"
+      }
+    }
+  ]
+}

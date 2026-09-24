@@ -1,0 +1,423 @@
+{
+  "year": 2026,
+  "source": "https://www.muensterhack.de/teilnehmer/skills/10",
+  "skillColumns": [
+    "jsTs",
+    "php",
+    "dotNet",
+    "r",
+    "android",
+    "python",
+    "ios",
+    "react",
+    "nodeJs",
+    "iot",
+    "ux",
+    "cCpp",
+    "sql",
+    "noSql",
+    "cloud",
+    "baas",
+    "docker",
+    "llms",
+    "misc"
+  ],
+  "participants": [
+    {
+      "firstName": "Adarsh",
+      "skills": []
+    },
+    {
+      "firstName": "Alexander",
+      "skills": []
+    },
+    {
+      "firstName": "Alicia Kristina",
+      "skills": []
+    },
+    {
+      "firstName": "Annabell",
+      "skills": []
+    },
+    {
+      "firstName": "Anusan",
+      "skills": []
+    },
+    {
+      "firstName": "Ardelia",
+      "skills": []
+    },
+    {
+      "firstName": "Bianca",
+      "skills": []
+    },
+    {
+      "firstName": "Birkan",
+      "skills": []
+    },
+    {
+      "firstName": "Björn",
+      "skills": []
+    },
+    {
+      "firstName": "Christian",
+      "skills": []
+    },
+    {
+      "firstName": "Christian",
+      "skills": []
+    },
+    {
+      "firstName": "Corinna",
+      "skills": []
+    },
+    {
+      "firstName": "Cuma",
+      "skills": []
+    },
+    {
+      "firstName": "Damian-Luke",
+      "skills": []
+    },
+    {
+      "firstName": "David",
+      "skills": []
+    },
+    {
+      "firstName": "Eike",
+      "skills": []
+    },
+    {
+      "firstName": "Elina",
+      "skills": []
+    },
+    {
+      "firstName": "Elinor",
+      "skills": []
+    },
+    {
+      "firstName": "Emily",
+      "skills": []
+    },
+    {
+      "firstName": "Farah",
+      "skills": []
+    },
+    {
+      "firstName": "Felix",
+      "skills": []
+    },
+    {
+      "firstName": "Felix",
+      "skills": []
+    },
+    {
+      "firstName": "Finn",
+      "skills": []
+    },
+    {
+      "firstName": "Florian",
+      "skills": []
+    },
+    {
+      "firstName": "Florian",
+      "skills": []
+    },
+    {
+      "firstName": "Frank",
+      "skills": []
+    },
+    {
+      "firstName": "Frederik",
+      "skills": []
+    },
+    {
+      "firstName": "Friedjof",
+      "skills": []
+    },
+    {
+      "firstName": "Georg",
+      "skills": []
+    },
+    {
+      "firstName": "Hendrik",
+      "skills": []
+    },
+    {
+      "firstName": "Hendrik",
+      "skills": []
+    },
+    {
+      "firstName": "Ina",
+      "skills": []
+    },
+    {
+      "firstName": "Ina",
+      "skills": []
+    },
+    {
+      "firstName": "Jana",
+      "skills": []
+    },
+    {
+      "firstName": "Jessica",
+      "skills": []
+    },
+    {
+      "firstName": "Joel",
+      "skills": []
+    },
+    {
+      "firstName": "Johann",
+      "skills": []
+    },
+    {
+      "firstName": "Jonas",
+      "skills": []
+    },
+    {
+      "firstName": "Jonas",
+      "skills": []
+    },
+    {
+      "firstName": "Jonas",
+      "skills": []
+    },
+    {
+      "firstName": "Jonathan",
+      "skills": []
+    },
+    {
+      "firstName": "Joshua",
+      "skills": []
+    },
+    {
+      "firstName": "Judith",
+      "skills": []
+    },
+    {
+      "firstName": "Karin",
+      "skills": []
+    },
+    {
+      "firstName": "Kilian",
+      "skills": []
+    },
+    {
+      "firstName": "Lara",
+      "skills": []
+    },
+    {
+      "firstName": "Laurenz",
+      "skills": []
+    },
+    {
+      "firstName": "Lea",
+      "skills": []
+    },
+    {
+      "firstName": "Lena",
+      "skills": []
+    },
+    {
+      "firstName": "Leon",
+      "skills": []
+    },
+    {
+      "firstName": "Leon",
+      "skills": []
+    },
+    {
+      "firstName": "Lukas",
+      "skills": []
+    },
+    {
+      "firstName": "Lukas",
+      "skills": []
+    },
+    {
+      "firstName": "Luke",
+      "skills": []
+    },
+    {
+      "firstName": "Mahboubeh",
+      "skills": []
+    },
+    {
+      "firstName": "Marc",
+      "skills": []
+    },
+    {
+      "firstName": "Marie-Christine",
+      "skills": []
+    },
+    {
+      "firstName": "Mark",
+      "skills": []
+    },
+    {
+      "firstName": "Markus",
+      "skills": []
+    },
+    {
+      "firstName": "Martin",
+      "skills": []
+    },
+    {
+      "firstName": "Martin",
+      "skills": []
+    },
+    {
+      "firstName": "Matteo",
+      "skills": []
+    },
+    {
+      "firstName": "Max",
+      "skills": []
+    },
+    {
+      "firstName": "Maximilian",
+      "skills": []
+    },
+    {
+      "firstName": "Moritz",
+      "skills": []
+    },
+    {
+      "firstName": "Naemi",
+      "skills": []
+    },
+    {
+      "firstName": "Nic",
+      "skills": []
+    },
+    {
+      "firstName": "Niharika",
+      "skills": []
+    },
+    {
+      "firstName": "Nursel",
+      "skills": []
+    },
+    {
+      "firstName": "Pascal",
+      "skills": []
+    },
+    {
+      "firstName": "Paul",
+      "skills": []
+    },
+    {
+      "firstName": "Paula",
+      "skills": []
+    },
+    {
+      "firstName": "Peter",
+      "skills": []
+    },
+    {
+      "firstName": "Philipp",
+      "skills": []
+    },
+    {
+      "firstName": "Rebekka",
+      "skills": []
+    },
+    {
+      "firstName": "Robert",
+      "skills": []
+    },
+    {
+      "firstName": "Robin",
+      "skills": []
+    },
+    {
+      "firstName": "Roman",
+      "skills": []
+    },
+    {
+      "firstName": "Ruwen",
+      "skills": []
+    },
+    {
+      "firstName": "Sara",
+      "skills": []
+    },
+    {
+      "firstName": "Sarah",
+      "skills": []
+    },
+    {
+      "firstName": "Sebastian",
+      "skills": []
+    },
+    {
+      "firstName": "Selina",
+      "skills": []
+    },
+    {
+      "firstName": "Simon",
+      "skills": []
+    },
+    {
+      "firstName": "Sophia",
+      "skills": []
+    },
+    {
+      "firstName": "Stacie",
+      "skills": []
+    },
+    {
+      "firstName": "Stefan",
+      "skills": []
+    },
+    {
+      "firstName": "Steffen",
+      "skills": []
+    },
+    {
+      "firstName": "Stephan",
+      "skills": []
+    },
+    {
+      "firstName": "Thomas",
+      "skills": []
+    },
+    {
+      "firstName": "Thomas",
+      "skills": []
+    },
+    {
+      "firstName": "Thorben",
+      "skills": []
+    },
+    {
+      "firstName": "Tim",
+      "skills": []
+    },
+    {
+      "firstName": "Timo",
+      "skills": []
+    },
+    {
+      "firstName": "Tobias",
+      "skills": []
+    },
+    {
+      "firstName": "Tom",
+      "skills": []
+    },
+    {
+      "firstName": "Vadim",
+      "skills": []
+    },
+    {
+      "firstName": "Verena",
+      "skills": []
+    },
+    {
+      "firstName": "Viola",
+      "skills": []
+    }
+  ]
+}
